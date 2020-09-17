@@ -34,7 +34,7 @@ cd Soft-Actor-Critic-Pytorch/
 ## Training
 To train the models for 40,000 iterations
 ```
-cd pendulum
+cd pendulumn
 python train.py 
 ```
 Iterations midway ![](pendulumn_sac_it22000.png)</br>
@@ -44,6 +44,6 @@ Load the pre-trained model from checkpoint.pth
 ## Visualizing trained model run (This also acts as test)
 Create a gif of the test run
 ```
-cd pendulum
+cd pendulumn
 python visualization.py
 ```
